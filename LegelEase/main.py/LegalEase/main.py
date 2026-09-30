@@ -1,0 +1,5 @@
+print("=== LegalEase - AI Legal Assistant ===")
+print("Welcome to LegalEase!")
+print("Status: Running Successfully")
+print("Team: Naan Mudhalvan Project")
+print("Year: 2026")
